@@ -1,2 +1,4 @@
 var a = "jayan";
-console.log(a);
+var b = "rinadiya";
+
+console.log(a+b);
